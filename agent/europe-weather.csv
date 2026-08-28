@@ -1,0 +1,48 @@
+country,country_code,capital,observed_at,temperature_c,apparent_temperature_c,humidity_pct,precipitation_mm,wind_speed_kmh,wind_direction_deg,conditions
+Albania,AL,Tirana,2026-08-26T12:45,31.2,35.3,57,0.0,7.8,257,Partly cloudy
+Andorra,AD,Andorra la Vella,2026-08-26T12:45,24.7,23.1,40,0.0,10.5,274,Clear sky
+Austria,AT,Vienna,2026-08-26T12:45,25.0,25.2,46,0.0,7.1,30,Partly cloudy
+Belarus,BY,Minsk,2026-08-26T13:45,19.8,18.8,51,0.0,6.1,5,Overcast
+Belgium,BE,Brussels,2026-08-26T12:45,21.9,24.0,78,0.0,5.0,131,Partly cloudy
+Bosnia and Herzegovina,BA,Sarajevo,2026-08-26T12:45,26.4,28.1,52,0.0,9.2,309,Mainly clear
+Bulgaria,BG,Sofia,2026-08-26T13:45,30.1,31.3,29,0.0,4.0,5,Partly cloudy
+Croatia,HR,Zagreb,2026-08-26T12:45,27.4,29.6,50,0.0,8.0,207,Mainly clear
+Cyprus,CY,Nicosia,2026-08-26T13:45,38.9,40.2,20,0.0,9.1,351,Clear sky
+Czech Republic,CZ,Prague,2026-08-26T12:45,20.7,20.3,56,0.0,6.6,68,Overcast
+Denmark,DK,Copenhagen,2026-08-26T12:45,22.1,22.0,54,0.0,9.7,123,Mainly clear
+Estonia,EE,Tallinn,2026-08-26T13:45,19.0,18.7,67,0.0,10.4,347,Clear sky
+Finland,FI,Helsinki,2026-08-26T13:45,19.3,18.8,65,0.0,9.0,140,Mainly clear
+France,FR,Paris,2026-08-26T12:45,26.6,27.6,47,0.0,8.5,192,Mainly clear
+Germany,DE,Berlin,2026-08-26T12:45,23.0,21.6,45,0.0,14.6,110,Overcast
+Greece,GR,Athens,2026-08-26T13:45,36.9,40.4,32,0.0,8.3,198,Clear sky
+Hungary,HU,Budapest,2026-08-26T12:45,28.2,26.9,31,0.0,11.5,357,Partly cloudy
+Iceland,IS,Reykjavik,2026-08-26T10:45,9.2,6.0,73,0.0,12.6,92,Overcast
+Ireland,IE,Dublin,2026-08-26T11:45,18.0,17.1,80,0.0,15.8,113,Overcast
+Italy,IT,Rome,2026-08-26T12:45,34.7,38.0,35,0.0,5.6,243,Mainly clear
+Kosovo,XK,Pristina,2026-08-26T12:45,30.2,30.9,35,0.0,8.8,341,Partly cloudy
+Latvia,LV,Riga,2026-08-26T13:45,19.4,17.9,57,0.0,13.7,352,Mainly clear
+Liechtenstein,LI,Vaduz,2026-08-26T12:45,25.5,28.5,58,0.0,3.9,338,Overcast
+Lithuania,LT,Vilnius,2026-08-26T13:45,19.3,18.3,56,0.0,7.2,18,Mainly clear
+Luxembourg,LU,Luxembourg,2026-08-26T12:45,21.1,23.5,75,0.0,6.1,148,Clear sky
+Malta,MT,Valletta,2026-08-26T12:45,37.8,42.3,36,0.0,9.0,286,Clear sky
+Moldova,MD,Chisinau,2026-08-26T13:45,19.9,22.1,89,1.1,4.7,171,Moderate rain
+Monaco,MC,Monaco,2026-08-26T12:45,26.5,30.4,76,0.0,11.8,113,Overcast
+Montenegro,ME,Podgorica,2026-08-26T12:45,34.2,36.5,38,0.0,12.8,196,Clear sky
+Netherlands,NL,Amsterdam,2026-08-26T12:45,23.3,22.7,52,0.0,14.4,96,Overcast
+North Macedonia,MK,Skopje,2026-08-26T12:45,34.9,37.1,27,0.0,3.5,66,Clear sky
+Norway,NO,Oslo,2026-08-26T12:45,21.9,21.3,46,0.0,4.7,195,Mainly clear
+Poland,PL,Warsaw,2026-08-26T12:45,21.4,21.6,54,0.0,7.6,58,Mainly clear
+Portugal,PT,Lisbon,2026-08-26T11:45,20.7,20.5,85,0.1,22.2,220,Slight rain showers
+Romania,RO,Bucharest,2026-08-26T13:45,27.3,29.6,53,0.0,4.9,36,Overcast
+Russia,RU,Moscow,2026-08-26T13:45,15.9,15.1,75,0.0,8.7,312,Overcast
+San Marino,SM,San Marino,2026-08-26T12:45,28.5,31.5,54,0.0,10.8,60,Mainly clear
+Serbia,RS,Belgrade,2026-08-26T12:45,28.2,30.2,50,0.0,11.2,271,Clear sky
+Slovakia,SK,Bratislava,2026-08-26T12:45,25.6,25.7,48,0.0,11.9,295,Overcast
+Slovenia,SI,Ljubljana,2026-08-26T12:45,25.1,28.6,60,0.0,2.3,252,Mainly clear
+Spain,ES,Madrid,2026-08-26T12:45,26.5,25.4,33,0.0,14.9,200,Overcast
+Sweden,SE,Stockholm,2026-08-26T12:45,20.3,18.8,43,0.0,8.6,86,Partly cloudy
+Switzerland,CH,Bern,2026-08-26T12:45,25.1,28.4,56,0.0,0.4,270,Overcast
+Turkey,TR,Ankara,2026-08-26T13:45,31.1,31.7,24,0.0,6.4,286,Clear sky
+Ukraine,UA,Kyiv,2026-08-26T13:45,22.7,21.1,39,0.0,7.5,55,Overcast
+United Kingdom,GB,London,2026-08-26T11:45,22.9,23.8,68,0.0,10.1,100,Overcast
+Vatican City,VA,Vatican City,2026-08-26T12:45,34.7,38.0,36,0.0,6.7,234,Mainly clear
