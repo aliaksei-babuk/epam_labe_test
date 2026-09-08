@@ -1,0 +1,48 @@
+country,country_code,capital,latitude,longitude,timezone,observed_at,temperature_c,apparent_temperature_c,humidity_pct,precipitation_mm,wind_speed_kmh,wind_direction_deg,weather_code,conditions
+Albania,AL,Tirana,41.3275,19.8187,Europe/Tirane,2026-09-08T09:00,26.0,27.1,49,0.0,2.2,261,1,Mainly clear
+Andorra,AD,Andorra la Vella,42.5063,1.5218,Europe/Andorra,2026-09-08T09:00,22.0,20.9,39,0.0,2.9,90,0,Clear sky
+Austria,AT,Vienna,48.2082,16.3738,Europe/Vienna,2026-09-08T09:00,20.4,20.2,55,0.0,3.6,180,1,Mainly clear
+Belarus,BY,Minsk,53.9006,27.559,Europe/Minsk,2026-09-08T10:00,15.2,13.8,68,0.0,8.3,209,3,Overcast
+Belgium,BE,Brussels,50.8503,4.3517,Europe/Brussels,2026-09-08T09:00,19.5,19.2,74,0.0,13.0,228,3,Overcast
+Bosnia and Herzegovina,BA,Sarajevo,43.8563,18.4131,Europe/Sarajevo,2026-09-08T09:00,20.4,19.3,45,0.0,4.1,285,0,Clear sky
+Bulgaria,BG,Sofia,42.6977,23.3219,Europe/Sofia,2026-09-08T10:00,18.4,17.7,64,0.0,7.8,77,0,Clear sky
+Croatia,HR,Zagreb,45.815,15.9819,Europe/Zagreb,2026-09-08T09:00,21.8,22.0,53,0.0,2.4,117,1,Mainly clear
+Cyprus,CY,Nicosia,35.1856,33.3823,Asia/Nicosia,2026-09-08T10:00,30.6,29.3,24,0.0,9.1,18,0,Clear sky
+Czech Republic,CZ,Prague,50.0755,14.4378,Europe/Prague,2026-09-08T09:00,16.6,16.8,71,0.0,1.6,153,0,Clear sky
+Denmark,DK,Copenhagen,55.6761,12.5683,Europe/Copenhagen,2026-09-08T09:00,17.8,18.0,88,0.0,12.2,205,3,Overcast
+Estonia,EE,Tallinn,59.437,24.7536,Europe/Tallinn,2026-09-08T10:00,15.7,13.3,86,0.0,23.4,188,3,Overcast
+Finland,FI,Helsinki,60.1699,24.9384,Europe/Helsinki,2026-09-08T10:00,15.5,12.4,90,0.0,29.5,201,3,Overcast
+France,FR,Paris,48.8566,2.3522,Europe/Paris,2026-09-08T09:00,19.5,20.1,77,0.0,7.8,214,3,Overcast
+Germany,DE,Berlin,52.52,13.405,Europe/Berlin,2026-09-08T09:00,17.7,18.5,80,0.0,4.1,225,1,Mainly clear
+Greece,GR,Athens,37.9838,23.7275,Europe/Athens,2026-09-08T10:00,26.7,25.4,39,0.0,12.1,27,0,Clear sky
+Hungary,HU,Budapest,47.4979,19.0402,Europe/Budapest,2026-09-08T09:00,23.0,20.5,24,0.0,4.7,174,0,Clear sky
+Iceland,IS,Reykjavik,64.1466,-21.9426,Atlantic/Reykjavik,2026-09-08T07:00,9.6,6.7,72,0.0,10.8,352,0,Clear sky
+Ireland,IE,Dublin,53.3498,-6.2603,Europe/Dublin,2026-09-08T08:00,12.0,9.0,79,0.0,17.6,252,3,Overcast
+Italy,IT,Rome,41.9028,12.4964,Europe/Rome,2026-09-08T09:00,24.8,28.2,71,0.0,0.0,270,0,Clear sky
+Kosovo,XK,Pristina,42.6629,21.1655,Europe/Belgrade,2026-09-08T09:00,21.0,19.0,30,0.0,2.2,261,0,Clear sky
+Latvia,LV,Riga,56.9496,24.1052,Europe/Riga,2026-09-08T10:00,15.9,13.8,73,0.0,16.6,177,3,Overcast
+Liechtenstein,LI,Vaduz,47.141,9.5209,Europe/Vaduz,2026-09-08T09:00,22.8,22.5,58,0.0,11.0,139,1,Mainly clear
+Lithuania,LT,Vilnius,54.6872,25.2797,Europe/Vilnius,2026-09-08T10:00,16.2,14.7,68,0.0,10.4,199,3,Overcast
+Luxembourg,LU,Luxembourg,49.6116,6.1319,Europe/Luxembourg,2026-09-08T09:00,18.6,19.0,77,0.0,7.2,177,3,Overcast
+Malta,MT,Valletta,35.8989,14.5146,Europe/Malta,2026-09-08T09:00,27.4,31.4,71,0.0,4.7,279,0,Clear sky
+Moldova,MD,Chisinau,47.0105,28.8638,Europe/Chisinau,2026-09-08T10:00,18.6,18.3,60,0.0,3.6,143,2,Partly cloudy
+Monaco,MC,Monaco,43.7384,7.4246,Europe/Monaco,2026-09-08T09:00,25.5,28.6,74,0.0,6.8,87,0,Clear sky
+Montenegro,ME,Podgorica,42.4304,19.2594,Europe/Podgorica,2026-09-08T09:00,26.6,27.5,46,0.0,3.1,234,0,Clear sky
+Netherlands,NL,Amsterdam,52.3676,4.9041,Europe/Amsterdam,2026-09-08T09:00,19.1,18.0,73,0.0,16.9,246,3,Overcast
+North Macedonia,MK,Skopje,41.9981,21.4254,Europe/Skopje,2026-09-08T09:00,20.1,18.5,33,0.0,0.4,90,0,Clear sky
+Norway,NO,Oslo,59.9139,10.7522,Europe/Oslo,2026-09-08T09:00,14.9,13.0,82,0.0,17.6,200,3,Overcast
+Poland,PL,Warsaw,52.2297,21.0122,Europe/Warsaw,2026-09-08T09:00,17.3,15.4,58,0.0,10.8,154,0,Clear sky
+Portugal,PT,Lisbon,38.7223,-9.1393,Europe/Lisbon,2026-09-08T08:00,19.2,19.5,84,0.0,13.1,351,1,Mainly clear
+Romania,RO,Bucharest,44.4268,26.1025,Europe/Bucharest,2026-09-08T10:00,19.6,18.8,51,0.0,4.1,75,1,Mainly clear
+Russia,RU,Moscow,55.7558,37.6173,Europe/Moscow,2026-09-08T10:00,9.3,6.7,75,0.0,9.7,321,2,Partly cloudy
+San Marino,SM,San Marino,43.9424,12.4578,Europe/San_Marino,2026-09-08T09:00,26.4,26.8,41,0.0,2.1,31,0,Clear sky
+Serbia,RS,Belgrade,44.7866,20.4489,Europe/Belgrade,2026-09-08T09:00,23.7,21.9,29,0.0,3.2,151,0,Clear sky
+Slovakia,SK,Bratislava,48.1486,17.1077,Europe/Bratislava,2026-09-08T09:00,19.3,17.3,50,0.0,11.7,72,1,Mainly clear
+Slovenia,SI,Ljubljana,46.0569,14.5058,Europe/Ljubljana,2026-09-08T09:00,20.5,21.9,70,0.0,1.6,207,0,Clear sky
+Spain,ES,Madrid,40.4168,-3.7038,Europe/Madrid,2026-09-08T09:00,23.5,22.9,39,0.0,2.2,99,2,Partly cloudy
+Sweden,SE,Stockholm,59.3293,18.0686,Europe/Stockholm,2026-09-08T09:00,16.4,15.0,80,0.0,15.5,216,3,Overcast
+Switzerland,CH,Bern,46.948,7.4474,Europe/Zurich,2026-09-08T09:00,18.6,21.0,91,0.0,0.8,63,0,Clear sky
+Turkey,TR,Ankara,39.9334,32.8597,Europe/Istanbul,2026-09-08T10:00,17.3,15.7,49,0.0,7.2,63,1,Mainly clear
+Ukraine,UA,Kyiv,50.4501,30.5234,Europe/Kyiv,2026-09-08T10:00,15.4,14.6,66,0.0,4.3,270,3,Overcast
+United Kingdom,GB,London,51.5074,-0.1278,Europe/London,2026-09-08T08:00,14.8,15.4,96,0.9,5.4,242,63,Moderate rain
+Vatican City,VA,Vatican City,41.9029,12.4534,Europe/Vatican,2026-09-08T09:00,24.8,29.0,79,0.0,0.4,90,0,Clear sky
